@@ -87,14 +87,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.56032788"
-     inkscape:cx="1578.5401"
-     inkscape:cy="744.09449"
+     inkscape:zoom="0.56571261"
+     inkscape:cx="1578.54"
+     inkscape:cy="744.09448"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1025"
+     inkscape:window-height="1029"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -186,13 +186,13 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold'"
          id="tspan9696">[0-]</tspan></text>
     <image
-       sodipodi:absref="/home/utrecht/Desktop/organogram/icons/white/donateur-kokujin.png"
+       sodipodi:absref="/home/sander/workspace/organogram/icons/white/donateur-kokujin.png"
        xlink:href="icons/white/donateur-kokujin.png"
-       width="128"
-       height="128"
-       id="image4601-7"
+       y="-39.732342"
        x="259.73578"
-       y="-39.732342" />
+       id="image4601-7"
+       height="128"
+       width="128" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:bold;font-size:40px;line-height:100%;font-family:Sans;-inkscape-font-specification:'Droid Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -216,69 +216,69 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold'"
          id="tspan9692">[0-]</tspan></text>
     <image
-       sodipodi:absref="/home/utrecht/Desktop/organogram/icons/white/donateur-shogun.png"
+       sodipodi:absref="/home/sander/workspace/organogram/icons/white/donateur-shogun.png"
        xlink:href="icons/white/donateur-shogun.png"
-       width="128"
-       height="128"
-       id="image5379-7"
+       y="296.2677"
        x="259.73578"
-       y="296.2677" />
+       id="image5379-7"
+       height="128"
+       width="128" />
     <image
-       sodipodi:absref="/home/utrecht/Desktop/organogram/icons/white/algemene-ledenvergadering.png"
+       sodipodi:absref="/home/sander/workspace/organogram/icons/white/algemene-ledenvergadering.png"
        xlink:href="icons/white/algemene-ledenvergadering.png"
-       width="128"
-       height="128"
+       y="-355.73236"
+       x="111.73578"
        id="image4291-9"
-       x="111.73578"
-       y="-355.73236" />
+       height="128"
+       width="128" />
     <image
-       sodipodi:absref="/home/utrecht/Desktop/organogram/icons/white/kascontrolecommissie.png"
+       sodipodi:absref="/home/sander/workspace/organogram/icons/white/kascontrolecommissie.png"
        xlink:href="icons/white/kascontrolecommissie.png"
-       width="128"
-       height="128"
-       id="image3533-6"
+       y="528.36212"
        x="111.73578"
-       y="528.36212" />
+       id="image3533-6"
+       height="128"
+       width="128" />
     <image
-       sodipodi:absref="/home/utrecht/Desktop/organogram/icons/white/voorzitter-kascontrolecommissie.png"
+       sodipodi:absref="/home/sander/workspace/organogram/icons/white/voorzitter-kascontrolecommissie.png"
        xlink:href="icons/white/voorzitter-kascontrolecommissie.png"
-       width="128"
-       height="128"
+       y="676.36212"
+       x="259.73572"
        id="image4787"
-       x="259.73572"
-       y="676.36212" />
+       height="128"
+       width="128" />
     <image
-       sodipodi:absref="/home/utrecht/Desktop/organogram/icons/white/lid-kascontrolecommissie.png"
+       sodipodi:absref="/home/sander/workspace/organogram/icons/white/lid-kascontrolecommissie.png"
        xlink:href="icons/white/lid-kascontrolecommissie.png"
-       width="128"
-       height="128"
-       id="image4725-3"
+       y="844.36212"
        x="259.73572"
-       y="844.36212" />
+       id="image4725-3"
+       height="128"
+       width="128" />
     <image
-       sodipodi:absref="/home/utrecht/Desktop/organogram/icons/white/voorzitter-activiteitencommissie.png"
+       sodipodi:absref="/home/sander/workspace/organogram/icons/white/voorzitter-activiteitencommissie.png"
        xlink:href="icons/white/voorzitter-activiteitencommissie.png"
-       width="128"
-       height="128"
+       y="676.36212"
+       x="1248.3193"
        id="image4229"
-       x="1248.3193"
-       y="676.36212" />
+       height="128"
+       width="128" />
     <image
-       sodipodi:absref="/home/utrecht/Desktop/organogram/icons/white/lid-activiteitencommissie.png"
+       sodipodi:absref="/home/sander/workspace/organogram/icons/white/lid-activiteitencommissie.png"
        xlink:href="icons/white/lid-activiteitencommissie.png"
-       width="128"
-       height="128"
-       id="image5473"
+       y="844.36212"
        x="1248.3193"
-       y="844.36212" />
-    <image
-       sodipodi:absref="/home/utrecht/Desktop/organogram/icons/white/activiteitencommissie.png"
-       xlink:href="icons/white/activiteitencommissie.png"
-       width="128"
+       id="image5473"
        height="128"
-       id="image4353"
+       width="128" />
+    <image
+       sodipodi:absref="/home/sander/workspace/organogram/icons/white/activiteitencommissie.png"
+       xlink:href="icons/white/activiteitencommissie.png"
+       y="528.36218"
        x="1100.3193"
-       y="528.36218" />
+       id="image4353"
+       height="128"
+       width="128" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:bold;font-size:56px;line-height:100%;font-family:Sans;-inkscape-font-specification:'Droid Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -297,13 +297,13 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:56px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold'"
          id="tspan5890">Ledenvergadering*</tspan></text>
     <image
-       sodipodi:absref="/home/utrecht/Desktop/organogram/icons/white/leden.png"
+       sodipodi:absref="/home/sander/workspace/organogram/icons/white/leden.png"
        xlink:href="icons/white/leden.png"
-       width="128"
-       height="128"
-       id="image5177-5"
+       y="-207.73233"
        x="259.73578"
-       y="-207.73233" />
+       id="image5177-5"
+       height="128"
+       width="128" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:bold;font-size:40px;line-height:100%;font-family:Sans;-inkscape-font-specification:'Droid Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -322,13 +322,13 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold'"
          id="tspan9002">[3-55]</tspan></text>
     <image
-       sodipodi:absref="/home/utrecht/Desktop/organogram/icons/white/donateur-daimyo.png"
+       sodipodi:absref="/home/sander/workspace/organogram/icons/white/donateur-daimyo.png"
        xlink:href="icons/white/donateur-daimyo.png"
-       width="128"
-       height="128"
-       id="image4477-0"
+       y="128.26764"
        x="259.73578"
-       y="128.26764" />
+       id="image4477-0"
+       height="128"
+       width="128" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:bold;font-size:40px;line-height:100%;font-family:Sans;-inkscape-font-specification:'Droid Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -352,21 +352,21 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold'"
          id="tspan9694">[0-]</tspan></text>
     <image
-       sodipodi:absref="/home/utrecht/Desktop/organogram/icons/white/algemeen-bestuurslid.png"
+       sodipodi:absref="/home/sander/workspace/organogram/icons/white/algemeen-bestuurslid.png"
        xlink:href="icons/white/algemeen-bestuurslid.png"
-       width="128"
-       height="128"
-       id="image3125"
+       y="296.26767"
        x="1248.3193"
-       y="296.26767" />
-    <image
-       sodipodi:absref="/home/utrecht/Desktop/organogram/icons/white/bestuur.png"
-       xlink:href="icons/white/bestuur.png"
-       width="128"
+       id="image3125"
        height="128"
-       id="image5239"
+       width="128" />
+    <image
+       sodipodi:absref="/home/sander/workspace/organogram/icons/white/bestuur.png"
+       xlink:href="icons/white/bestuur.png"
+       y="-355.73236"
        x="1100.3193"
-       y="-355.73236" />
+       id="image5239"
+       height="128"
+       width="128" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:bold;font-size:56px;line-height:100%;font-family:Sans;-inkscape-font-specification:'Droid Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -381,28 +381,28 @@
          id="tspan5890-4">Bestuur*</tspan></text>
     <image
        sodipodi:absref="/home/utrecht/Desktop/organogram/icons/white/Takezake (saké in a bamboo container).png"
-       xlink:href="icons/white/Takezake (saké in a bamboo container).png"
+       xlink:href="file:///home/utrecht/Desktop/organogram/icons/white/Takezake%20(sake%CC%81%20in%20a%20bamboo%20container).png"
        width="128"
        height="128"
        id="image4039"
        x="1248.3193"
        y="-39.73233" />
     <image
-       sodipodi:absref="/home/utrecht/Desktop/organogram/icons/white/secretaris.png"
+       sodipodi:absref="/home/sander/workspace/organogram/icons/white/secretaris.png"
        xlink:href="icons/white/secretaris.png"
-       width="128"
-       height="128"
+       y="128.26767"
+       x="1248.3193"
        id="image4415"
-       x="1248.3193"
-       y="128.26767" />
-    <image
-       sodipodi:absref="/home/utrecht/Desktop/organogram/icons/white/voorzitter.png"
-       xlink:href="icons/white/voorzitter.png"
-       width="128"
        height="128"
-       id="image4539"
+       width="128" />
+    <image
+       sodipodi:absref="/home/sander/workspace/organogram/icons/white/voorzitter.png"
+       xlink:href="icons/white/voorzitter.png"
+       y="-207.73233"
        x="1248.3193"
-       y="-207.73233" />
+       id="image4539"
+       height="128"
+       width="128" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:bold;font-size:40px;line-height:100%;font-family:Sans;-inkscape-font-specification:'Droid Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -523,29 +523,29 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:56px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold'"
          id="tspan5939">commissie*</tspan></text>
     <image
-       sodipodi:absref="/home/utrecht/Desktop/organogram/icons/white/materialencommissie.png"
+       sodipodi:absref="/home/sander/workspace/organogram/icons/white/materialencommissie.png"
        xlink:href="icons/white/materialencommissie.png"
-       width="128"
-       height="128"
-       id="image5301"
+       y="528.36212"
        x="1972.9614"
-       y="528.36212" />
+       id="image5301"
+       height="128"
+       width="128" />
     <image
-       sodipodi:absref="/home/utrecht/Desktop/organogram/icons/white/lid-materialencommissie.png"
+       sodipodi:absref="/home/sander/workspace/organogram/icons/white/lid-materialencommissie.png"
        xlink:href="icons/white/lid-materialencommissie.png"
-       width="128"
-       height="128"
+       y="844.36212"
+       x="2120.9614"
        id="image5535"
-       x="2120.9614"
-       y="844.36212" />
-    <image
-       sodipodi:absref="/home/utrecht/Desktop/organogram/icons/white/voorzitter-materialencommissie.png"
-       xlink:href="icons/white/voorzitter-materialencommissie.png"
-       width="128"
        height="128"
-       id="image3675"
+       width="128" />
+    <image
+       sodipodi:absref="/home/sander/workspace/organogram/icons/white/voorzitter-materialencommissie.png"
+       xlink:href="icons/white/voorzitter-materialencommissie.png"
+       y="676.36212"
        x="2120.9614"
-       y="676.36212" />
+       id="image3675"
+       height="128"
+       width="128" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:bold;font-size:40px;line-height:100%;font-family:Sans;-inkscape-font-specification:'Droid Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -800,29 +800,29 @@
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:80.00000119%;font-family:Irezumi;-inkscape-font-specification:'Irezumi Italic';fill:#800080;fill-opacity:1"
          id="tspan3158">aan anderen en daarin begeleid worden.</tspan></text>
     <image
-       sodipodi:absref="/home/utrecht/Desktop/organogram/icons/white/technische-commissie.png"
+       sodipodi:absref="/home/sander/workspace/organogram/icons/white/technische-commissie.png"
        xlink:href="icons/white/technische-commissie.png"
-       width="128"
-       height="128"
-       id="image3203"
+       y="-19.732391"
        x="1972.9614"
-       y="-19.732391" />
+       id="image3203"
+       height="128"
+       width="128" />
     <image
-       sodipodi:absref="/home/utrecht/Desktop/organogram/icons/white/voorzitter-technische-commissie.png"
+       sodipodi:absref="/home/sander/workspace/organogram/icons/white/voorzitter-technische-commissie.png"
        xlink:href="icons/white/voorzitter-technische-commissie.png"
-       width="128"
-       height="128"
+       y="128.26767"
+       x="2120.9614"
        id="image4849"
-       x="2120.9614"
-       y="128.26767" />
-    <image
-       sodipodi:absref="/home/utrecht/Desktop/organogram/icons/white/assistent.png"
-       xlink:href="icons/white/assistent.png"
-       width="128"
        height="128"
-       id="image5597"
+       width="128" />
+    <image
+       sodipodi:absref="/home/sander/workspace/organogram/icons/white/assistent.png"
+       xlink:href="icons/white/assistent.png"
+       y="296.26767"
        x="2120.9614"
-       y="296.26767" />
+       id="image5597"
+       height="128"
+       width="128" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:bold;font-size:40px;line-height:100%;font-family:Sans;-inkscape-font-specification:'Droid Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -1021,13 +1021,13 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold'"
          id="tspan11160">Aikido Utrecht</tspan></text>
     <image
-       sodipodi:absref="/home/utrecht/Desktop/organogram/icons/transparent/sau-logo-notext-grayscale-transparent.png"
+       sodipodi:absref="/home/sander/workspace/organogram/icons/transparent/sau-logo-notext-grayscale-transparent.png"
        xlink:href="icons/transparent/sau-logo-notext-grayscale-transparent.png"
-       width="128"
-       height="127.73984"
-       id="image11157"
+       y="-355.7323"
        x="1972.9614"
-       y="-355.7323" />
+       id="image11157"
+       height="127.73984"
+       width="128" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:bold;font-size:40px;line-height:100%;font-family:Sans;-inkscape-font-specification:'Droid Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -1099,5 +1099,17 @@
          y="-243.08334"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold'"
          id="tspan3192">   wet verplicht</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:bold;font-size:40px;line-height:100%;font-family:Sans;-inkscape-font-specification:'Droid Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="3010.498"
+       y="1011.9714"
+       id="text5600-4-0-6-9-8-3"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="3010.498"
+         y="1011.9714"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold'"
+         id="tspan7945-2-5">2013</tspan></text>
   </g>
 </svg>
